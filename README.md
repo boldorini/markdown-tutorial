@@ -1,2 +1,6 @@
 # markdown-tutorial
-## markdown-tutorial - h2
+
+## Headers
+
+Sempre que escrevermos headers, devemos deixar linhas em branco entre eles. Os headers são representados pelo sinal #.
+
