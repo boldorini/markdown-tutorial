@@ -27,3 +27,5 @@ Uma palavra cercada por 1 asterisco em cada lado terá seu formato modificado pa
 Uma palavra cercada por 2 asteriscos em cada lado terá seu formato modificado para **negrito**.
 
 Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado para ***negrito/itálico***.
+
+# Modificação feita por outro dev.
