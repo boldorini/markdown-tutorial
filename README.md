@@ -37,3 +37,5 @@ Para escrever um parágrafo com destaque, utilizamos o símbolo >.
 > e assim por diante.
 
 Os paragráfos acima estão destacados do restante do texto escrito.
+
+.
