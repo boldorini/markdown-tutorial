@@ -3,14 +3,23 @@
 ##Índice
 
 [1. Headers](#headers)
+
 [2. Itálicos, Negritos e Negritos Itálicos](#itálicos-negritos-e-negritos-itálicos)
+
 [3. Parágrafo com destaque](#parágrafo-com-destaque)
+
 [4. Criação de hyperlinks](#criação-de-hyperlinks)
+
 [5. Criando referências no próprio Markdown](#criando-referências-no-próprio-markdown)
+
 [6. Criando snippets de código](#criando-snippets-de-código)
+
 [7. Listas não-ordenadas](#listas-não-ordenadas)
+
 [8. Listas ordenadas](#listas-ordenadas)
+
 [9. Sub-listas](#sub-listas)
+
 [10. Imagens](#imagens)
 
 
