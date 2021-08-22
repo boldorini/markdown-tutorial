@@ -42,7 +42,7 @@ Os headers têm 6 níveis que são representados pela quantidade de símbolos es
 
 ###### h6
 
-[Voltar ao índice](#índice)
+[Voltar ao índice](#Índice)
 
 ## Itálicos, Negritos e Negritos Itálicos
 
