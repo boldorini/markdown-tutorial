@@ -1,6 +1,6 @@
 # Tutorial Markdown
 
-##Índice
+## Índice
 
 [1. Headers](#headers)
 
@@ -42,7 +42,7 @@ Os headers têm 6 níveis que são representados pela quantidade de símbolos es
 
 ###### h6
 
-[Voltar ao índice](#Índice)
+[Voltar ao índice](#índice)
 
 ## Itálicos, Negritos e Negritos Itálicos
 
