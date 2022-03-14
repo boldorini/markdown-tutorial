@@ -18,9 +18,9 @@
 
 [8. Listas ordenadas](#listas-ordenadas)
 
-[10. Imagens](#imagens)
+[9. Imagens](#imagens)
 
-[9. Sub-listas](#sub-listas)
+[10. Sub-listas](#sub-listas)
 
 
 
