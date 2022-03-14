@@ -22,8 +22,6 @@
 
 [9. Sub-listas](#sub-listas)
 
-Alguma coisa aqui
-
 
 
 ## Headers
@@ -126,6 +124,15 @@ Para criação de listas ordenadas, utiliza-se o número seguido de um ponto no 
 
 [Voltar ao índice](#índice)
 
+## Imagens
+Para acrescentar imagens no texto utiliza-se o símbolo ![](). Onde a exclamação indica uma figura, o conteúdo do colchetes indica o texto alternativo caso a imagem não seja carregada e entre parênteses temos o link da imagem.
+
+![Surfista Prateado](https://static.wikia.nocookie.net/liberproeliis/images/e/e5/Silver-Surfer-PNG-Download-Image.png/revision/latest/scale-to-width-down/1000?cb=20190312185245&path-prefix=pt-br)
+
+![Marilyn](./img/marilyn.jpg)
+
+[Voltar ao índice](#índice)
+
 ## Sub-listas
 Para criação de sublistas utilizamos ambas a anotações explicadas acima junto com uma tabulação.
 1. linha 1
@@ -135,14 +142,5 @@ Para criação de sublistas utilizamos ambas a anotações explicadas acima junt
     1. sub-linha2.1
     2. sublinha2.2
 3. linha 3
-
-[Voltar ao índice](#índice)
-
-## Imagens
-Para acrescentar imagens no texto utiliza-se o símbolo ![](). Onde a exclamação indica uma figura, o conteúdo do colchetes indica o texto alternativo caso a imagem não seja carregada e entre parênteses temos o link da imagem.
-
-![Surfista Prateado](https://static.wikia.nocookie.net/liberproeliis/images/e/e5/Silver-Surfer-PNG-Download-Image.png/revision/latest/scale-to-width-down/1000?cb=20190312185245&path-prefix=pt-br)
-
-![Marilyn](./img/marilyn.jpg)
 
 [Voltar ao índice](#índice)
