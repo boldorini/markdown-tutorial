@@ -70,11 +70,13 @@ Os paragráfos acima estão destacados do restante do texto escrito.
 ## Criação de hyperlinks
 
 A criação de hyperlinks é feita através dos símbolos [](). Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado.
-Ex: [Google](www.google.com)
+Ex: [Google](http://www.google.com)
 
 [Voltar ao índice](#índice)
 
 ## Criando referências no próprio Markdown
+Para criar uma referência a capítulos do próprio Markdown, utiliza-se os símbolos de hyperlink [](). Porém, diferente de hyperlinks externos onde dentro do parênteses, acrescenta-se a url desejada, para links internos colocamos a palavra desejada do link com o símbolo # a precedendo.
+Ex: [Markdown](#markdown)
 
 ## Criando snippets de código
 Para criar snippets de código (partes de código) basta utilizar o símbolo de crase 3 vezes junto com a linguagem do snippet.
