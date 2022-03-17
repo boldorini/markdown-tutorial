@@ -75,7 +75,7 @@ Ex: [Google](http://www.google.com)
 [Voltar ao índice](#índice)
 
 ## Criando referências no próprio Markdown
-Para criar uma referência a capítulos do próprio Markdown, utiliza-se os símbolos de hyperlink [](). Porém, diferente de hyperlinks externos onde dentro do parênteses, acrescenta-se a url desejada, para links internos colocamos a palavra desejada do link com o símbolo # a precedendo.
+Para criar uma referência a capítulos do próprio Markdown, utiliza-se os símbolos de hyperlink [](). Porém, diferente de hyperlinks externos onde dentro do parênteses, acrescenta-se a url desejada, para links internos colocamos o título do capítulo desejado --- se houver espaço no nome do capítulo, substitua-o por hífen --- com o símbolo # o precedendo.
 Ex: [Markdown](#markdown)
 
 ## Criando snippets de código
